@@ -1,0 +1,27 @@
+{
+  "name": "jbrown-design-system",
+  "version": "0.1.0",
+  "description": "A design system for my portfolio.",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jbrown/portfolio-design-system.git"
+  },
+  "author": "Justin Brown",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jbrown/portfolio-design-system/issues"
+  },
+  "homepage": "https://github.com/jbrown/portfolio-design-system#readme",
+  "dependencies": {
+    "prop-types": "^15.7.2",
+    "styled-system": "^4.2.2"
+  },
+  "devDependencies": {},
+  "peerDependencies": {
+    "styled-components": ">=2.0.0 || >=3.0.0 || >=4.0.0"
+  }
+}
