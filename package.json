@@ -18,8 +18,10 @@
   "homepage": "https://github.com/jbrown/portfolio-design-system#readme",
   "dependencies": {
     "prop-types": "^15.7.2",
-    "styled-components": "^4.2.0",
     "styled-system": "^4.2.2"
   },
-  "devDependencies": {}
+  "devDependencies": {},
+  "peerDependencies": {
+    "styled-components": ">=2.0.0 || >=3.0.0 || >=4.0.0"
+  }
 }
